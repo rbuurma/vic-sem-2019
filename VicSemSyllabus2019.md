@@ -66,14 +66,13 @@ some topics: roman fleuve; religion and the clergy; marriage; travel; Trollope a
 
 + Margaret Oliphant, Miss Marjoribanks (1966), first half
 + Margaret Oliphant, *An Autobiography*
-+ Fredric Jameson, beginning of chapter 3 from *The Political Unconscious*
++ Fredric Jameson, "The Realist Floor-plan"
 + Bruno Latour, "Circulating Reference"
-+ VLC Keywords
-+ Trollope + Oliphant corpora?
++ VLC Keywords (various)
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
++ discussion and outline: Hali and Sagnik
++ close reading: Laura
++ criticism summary: Keton
 + seminar paper:
 + break:
 
