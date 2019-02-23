@@ -62,10 +62,9 @@ tutorial](https://github.com/dhcolumbia/pandoc-workflow/blob/master/main.md)
 + break:anyone?
 
 #### Week 3, February 8:canonical realisms 2
-some topics: roman fleuve; religion and the clergy; marriage; travel; Trollope and/vs Oliphant; comparison; gender and character
+some topics: roman fleuve; religion and the clergy; marriage; travel; Trollope and/vs Oliphant; comparison; gender and character; carrying over from week 2 especially series and seriality; status and class; precarity
 
-+ Margaret Oliphant, Miss Marjoribanks (1966), first half
-+ Margaret Oliphant, *An Autobiography*
++ Margaret Oliphant, Miss Marjoribanks (1866), through chapter 26 (about half)
 + Fredric Jameson, "The Realist Floor-plan"
 + Bruno Latour, "Circulating Reference"
 + VLC Keywords (various)
@@ -78,11 +77,10 @@ some topics: roman fleuve; religion and the clergy; marriage; travel; Trollope a
 
 #### Week 4, February 17 (note: Sunday afternoon): canonical realisms 2
 some topics: serials and series (what happens when we try to imagine all
-six Barsetshire novels or the Carlingford novels as part of a single world?)
+six Barsetshire novels or the Carlingford novels as part of a single world?); roman fleuve; marriage; travel; Trollope and/vs Oliphant; comparison; gender and character; carrying over from week 2 especially series and seriality; status and class; precarity
 
 + Miss Marjoribanks (1865-6), second half
 + Lauren Goodlad, "Bigger Love"
-+ Lit Lab Canon/Archive pamphlet
 + Eric Hayot, from *On Literary Worlds*
 
 + discussion and outline:
@@ -91,17 +89,13 @@ six Barsetshire novels or the Carlingford novels as part of a single world?)
 + seminar paper:
 + break:
 
-#### Week 5, February 22: narrative and novelists' note-taking
-some topics: bildungsroman, Dickens’s life and work, Victorian
-childhoods, literacy, education, emigration
+#### Week 5, February 22: Oliphant, continued
+some topics:
 
-+ Charles Dickens, *Our Mutual Friend*  (1864-5), first third
++ Margaret Oliphant, "The Rector" and "The Executor"
++ Margaret Oliphant, *An Autobiography*
 + Dorrit Cohn, summary handout and selection from *Transparent Minds*
-+ selections from Sylvère Monod’s *Charles Dickens, Novelist* (1953)
-+ selections from  John Butt and Kathleen Tillottson, *Dickens at Work*
-+ selections from Harry Stone ed., *Dickens’s Working Notes for His
-Novels*
-+ Simon Reader, “Victorian Notebooks: Source and Method”
++ Lit Lab Canon/Archive pamphlet
 + Elson, Dames, McKeown, [Extracting Social Networks from Literary
 Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf)
 
@@ -159,6 +153,7 @@ Charles Reade’s open research notebook; returning to canon questions
 + Ann Blair, “Note-taking as Information Management” from *Too Much to
 Know*
 + Mary Poovey, “Forgotten Writers, Neglected Histories”
++ + Simon Reader, “Victorian Notebooks: Source and Method”
 + Henry Wheatley, from What is an Index? (skim)
 + description of fictional novelist-researcher Rolfe from *A Terrible
 Temptation*
