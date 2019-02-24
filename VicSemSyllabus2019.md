@@ -109,6 +109,8 @@ Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf)
 *February 28: Patricia Matthew talk*
 
 #### Week 6, March 1: reference
+some topics: surveillance; realism and the occult; precarity; technology; gender and sexuality; Catholicism; domesticity; pedagogy; precarity and superfluous women (again)
+
 + Charlotte Bronte, *Villette* (first half)
 + Mikhail Bakhtin, from "Discourse in the Novel," 259-331
 + Mikhail Bakhtin, from "Problems of Dostoevsky's Poetics," p 5-8 and skim for examples of polyphony
@@ -475,7 +477,7 @@ Mark Algee-Hewitt's 2015 HILT curriculum
 
 This syllabus is necessarily an incomplete document; we will revise and
 save versions of it as the class progresses. The most up-to-date copy
-will be available in our Github repository: 
+will be available in our Github repository:
 https://github.com/rbuurma/vic-sem-2019/blob/master/VicSemSyllabus2019.md
 
 
