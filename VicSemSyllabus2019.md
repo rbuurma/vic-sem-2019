@@ -475,7 +475,8 @@ Mark Algee-Hewitt's 2015 HILT curriculum
 
 This syllabus is necessarily an incomplete document; we will revise and
 save versions of it as the class progresses. The most up-to-date copy
-will be available on our vic-sem-2019 organization page on github:
+will be available in our Github repository: 
+https://github.com/rbuurma/vic-sem-2019/blob/master/VicSemSyllabus2019.md
 
 
 This work is licensed under the Creative Commons Attribution 4.0
