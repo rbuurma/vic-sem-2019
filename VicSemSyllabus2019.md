@@ -19,6 +19,7 @@ This research-intensive honors seminar centers around two simple central questio
 
 This class will help you develop our skills in research in print, digital, and manuscript or typescript sources; how to use and evaluate a range of databases and digital tools; how to think about citation practices as substantive and central to our work as scholars of literature. It will ask you to examine your own implicit and explicit research practices and habits, and (in some cases) to experiment with modifying them or developing new ones. We may incorporate various computational elements into our work, from the basics of plain-text authoring, citation management, and keeping an open research notebook to using digital tools to help us analyze individual novels and groups of novels.
 
+
 ### Schedule
 
 #### Week 1, January 25: Introduction
@@ -83,10 +84,10 @@ six Barsetshire novels or the Carlingford novels as part of a single world?); ro
 + Lauren Goodlad, "Bigger Love"
 + Eric Hayot, from *On Literary Worlds*
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
++ discussion and outline: Laura
++ close reading: Keton
++ criticism summary: Keton
++ seminar paper: Sagnik, Hali
 + break:
 
 #### Week 5, February 22: Oliphant, continued
@@ -99,25 +100,27 @@ some topics:
 + Elson, Dames, McKeown, [Extracting Social Networks from Literary
 Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf)
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
++ discussion and outline: Keton
++ close reading: Laura, Sagnik
++ criticism summary: Hali
 + seminar paper:
 + break:
 
 *February 28: Patricia Matthew talk*
 
 #### Week 6, March 1: reference
-+ Charles Dickens, Charles Dickens, *Our Mutual Friend*, second third
++ Charlotte Bronte, *Villette* (first half)
 + Mikhail Bakhtin, from "Discourse in the Novel," 259-331
-+ Daniel Hack, "Introduction" to *Reaping Something New: African American Transformations of Victorian Literature*
++ Mikhail Bakhtin, from "Problems of Dostoevsky's Poetics," p 5-8 and skim for examples of polyphony
++ Joseph Boone, "Depolicing Villette"
 + Ted Underwood, David Bamman, and Sabrina Lee, [The Transformation of Gender in English-Language Fiction](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/) and
-+ take a look at the [Dickens Notes Project]([Dickens Working Notes Project](http://dickensnotes.com/), paying particular attention to the Our Mutual Friend MS History(http://dickensnotes.com/omfmshistory/)
-+ using the OMF Notes images (higher-quality facsimiles of the OMF notes) which you will now find in Dropbox, choose a chapter from the middle third of the novel and compare notes to chapter (see assignment)
++  take a look at the data and code for above article: https://github.com/tedunderwood/character
++ including this browsable interface that lets you explore the gendering of specific words: https://github.com/tedunderwood/character
++ SHS paper assigned
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
++ discussion and outline: Laura
++ close reading: Hali
++ criticism summary: Sagnik
 + seminar paper:
 + break:
 
@@ -126,18 +129,16 @@ Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf)
 #### March 7: SHS paper conferences
 
 #### Week 7, March 8:
-+ Charles Dickens, Charles Dickens, *Our Mutual Friend*, third third
++ Charlotte Bronte, *Villette* (second half)
 + [E.S. Dallas review of OMF](https://omf.ucsc.edu/publication/reviews/es-dallas.html)
 + Karl Marx on commodity fetishism
 + Sarah Winter, "Learning by Heart in Our Mutual Friend"
-+ Malcolm Andrews, Charles Dickens and His Performing Selves, ch 6
-+ explore Dickens's corpus with [CLiC](http://clic.bham.ac.uk/)
-+ bring back Ted Underwood, David Bamman, and Sabrina Lee, [The Transformation of Gender in English-Language Fiction](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/)
-+ optional:OMF chapter from Michael Slater's Dickens bio
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
+
++ discussion and outline: Hali
++ close reading: Sagnik
++ criticism summary: Sagnik, Laura
++ seminar paper: Keton
++ break: Keton
 
 #### Week 8, March 15: spring break - read Hard Cash (1863)
 
@@ -161,10 +162,10 @@ Temptation*
 + Michel Foucault, “Classifying,” from The Order of Things
 + Charles Bankson, edition of Charles Reade’s notecards
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
++ discussion and outline: Sagnik
++ close reading: Laura
++ criticism summary: Hali
++ seminar paper: Keton, Sagnik
 + break:
 
 
@@ -184,18 +185,18 @@ some topics: marriage plots, sensation, empire, global print circulation
 + question: canon, archive, corpus: how do we think about all the
 novels?
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Sagnik
++ close reading: Sagnik
++ criticism summary: Laura
++ seminar paper: Hali
++ break: Laura
 
 #### April 5: SHS paper workshop
 
 + Mary Elizabeth Braddon, *Lady Audeley's Secret*, first half
 + in-class SHS workshop
 
-+ break:
++ break: Sagnik
 
 
 #### April 12:  search and research
@@ -209,10 +210,10 @@ Twenty Years Ago”*
 + project work?
 
 + discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ close reading: Keton
++ criticism summary: Hali
++ seminar paper: Sagnik
++ break: Hali
 
 
 #### April 19: reference and everyday life
@@ -221,11 +222,11 @@ Twenty Years Ago”*
 + David Kurnick, “An Erotics of Detachment"
 + selections from GE notebooks
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
++ discussion and outline: Hali
++ close reading: Hali, Keton
++ criticism summary: Laura
 + seminar paper:
-+ break:
++ break: Keton and Laura
 
 
 #### April ???: SHS papers due
@@ -240,11 +241,11 @@ Rerum, etc)
 ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
 2014)
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Keton
++ close reading: Sagnik
++ criticism summary: Keton
++ seminar paper: Hali
++ break: Sagnik and Hali
 
 #### May 3: wrap-up: class rescheduled for day of seminar dinner
 some topics:
@@ -474,8 +475,8 @@ Mark Algee-Hewitt's 2015 HILT curriculum
 
 This syllabus is necessarily an incomplete document; we will revise and
 save versions of it as the class progresses. The most up-to-date copy
-will be available on our vic-sem-2018 organization page on github:
-https://github.com/vic-sem-2015/syllabus/blob/master/vic_sem_2016.md
+will be available on our vic-sem-2019 organization page on github:
+
 
 This work is licensed under the Creative Commons Attribution 4.0
 International License. To view a copy of this license, visit
