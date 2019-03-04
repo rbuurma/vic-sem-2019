@@ -132,10 +132,10 @@ some topics: surveillance; realism and the occult; precarity; technology; gender
 
 #### Week 7, March 8:
 + Charlotte Bronte, *Villette* (second half)
-+ [E.S. Dallas review of OMF](https://omf.ucsc.edu/publication/reviews/es-dallas.html)
-+ Karl Marx on commodity fetishism
-+ Sarah Winter, "Learning by Heart in Our Mutual Friend"
-
++ Sharon Marcus, *Between Women*, Introduction and Chapter 2
++ Stephen Best and Sharon Marcus, "Surface Reading: An Introduction"
++ William Cohen, "Why Is There So Much French in *Villette*?"
++
 + discussion and outline: Hali
 + close reading: Sagnik
 + criticism summary: Sagnik, Laura
@@ -171,8 +171,6 @@ Temptation*
 + break:
 
 
-#### March ???: SHS paper rough draft due
-
 #### Week 10, March 29:
 some topics: marriage plots, sensation, empire, global print circulation
 
@@ -192,6 +190,8 @@ novels?
 + criticism summary: Laura
 + seminar paper: Hali
 + break: Laura
+
+#### March 31: SHS paper rough draft due (seminar can finalize this date)
 
 #### April 5: SHS paper workshop
 
