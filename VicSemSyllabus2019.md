@@ -153,22 +153,23 @@ Charles Reade’s open research notebook; returning to canon questions
 *Trip to Princeton's Firestone Library this week*
 
 + Charles Reade, *Hard Cash*, to end
++ + description of fictional novelist-researcher Rolfe from *A Terrible
+Temptation*
++ Emerson Grant Sutcliffe, "Charles Reade's Notebooks" (skim)
++ Charles Bankson, edition of Charles Reade’s *Hard Cash* notecards
++ Mary Poovey, “Forgotten Writers, Neglected Histories”
++ Lewis Haines, "Reade's Realistic Method" (skim)
++ Simon Reader, “Victorian Notebooks: Source and Method”
 + Ann Blair, “Note-taking as Information Management” from *Too Much to
 Know*
-+ Mary Poovey, “Forgotten Writers, Neglected Histories”
-+ + Simon Reader, “Victorian Notebooks: Source and Method”
 + Henry Wheatley, from What is an Index? (skim)
-+ description of fictional novelist-researcher Rolfe from *A Terrible
-Temptation*
-+ bring back: Simon Reader, “Victorian Notebooks: Source and Method”
-+ Michel Foucault, “Classifying,” from The Order of Things
-+ Charles Bankson, edition of Charles Reade’s notecards
 
 + discussion and outline: Sagnik
 + close reading: Laura
 + criticism summary: Hali
 + seminar paper: Keton, Sagnik
 + break:
+
 
 
 #### Week 10, March 29:
@@ -207,9 +208,8 @@ some topics: sensation novel, gender and sexuality
 + Mary Elizabeth Braddon, *Lady Audley's Secret* (1862), finish
 + Ted Underwood, “Theorizing Research Practices We Forgot to Theorize
 Twenty Years Ago”*
++ Ted Underwood, "Intro: Historical Contrast and the Prestige of Literary Culture" and "Chapter 6: Digital Humanities and the Future of Literary History" in *Why Literary Periods Mattered : Historical Contrast and the Prestige of English Studies*
 + tba
-+ tba
-+ project work?
 
 + discussion and outline:
 + close reading: Keton
