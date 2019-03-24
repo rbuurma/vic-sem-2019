@@ -165,9 +165,9 @@ Know*
 + Henry Wheatley, from What is an Index? (skim)
 
 + discussion and outline: Sagnik
-+ close reading: Laura
++ close reading: Laura, Sagnik
 + criticism summary: Hali
-+ seminar paper: Keton, Sagnik
++ seminar paper: Keton
 + break:
 
 
@@ -175,21 +175,23 @@ Know*
 #### Week 10, March 29:
 some topics: marriage plots, sensation, empire, global print circulation
 
-+ Bankim Chandra Chatterjee, *Rajmohan's Wife* (1864)
-+ Sukanya Banerjee, “Troubling Conjugal Loyalties: The First Indian Novel in English and the Transimperial Framework of Sensation.”
-+ Priya Joshi, *In Another Country* chapters 2,3,4
-+ add something on the rebellion
-+ return to Roland Barthes, “The Reality Effect”
-+ selections from Roland Barthes, *The Preparation of the Novel*
-+ Stanford Lit Lab Pamphlet 11
-+ Kramnick, from *Paper Minds* or Auyoung from *When Fiction Feels Real*
++ Bankim Chandra Chatterjee, *Rajmohan's Wife* (1864) - 1935 edition pdf in Dropbox (first volume publication)
++ Meenakshi Mukherjee, Introduction to the [Penguin edition of RW](https://books.google.com/books?id=7U6y_6ArxLUC&lpg=PR1&pg=PR7#v=onepage&q&f=false)
++ Sukanya Banerjee, “Troubling Conjugal Loyalties: The First Indian Novel in English and the Transimperial Framework of Sensation”
++ Supriya Chaudhuri, "Beginnings: Rajmohan’s Wife and the Novel in India," Chapter 1 of " *A History of the Indian Novel in English"
++ Priya Joshi, *In Another Country*, Preface, chapter 2, chapter 4(optional)
++ Anindita Ghosh, "Revisiting the 'Bengal Renaissance': Literary Bengali and Low-Life Print in Colonial Calcutta"
++ optional: Satya P. Mohanty, "The Epistemic Work of Literary Realism: Two Novels from Colonial India,"" Chapter 2 of " *A History of the Indian Novel in English"
++ carry forward: Barthes, "Reality Effect" and *Preparation"
 + question: canon, archive, corpus: how do we think about all the
 novels?
 
+
+
 + discussion and outline: Sagnik
-+ close reading: Sagnik
++ close reading:
 + criticism summary: Laura
-+ seminar paper: Hali
++ seminar paper: Hali, Sagnik
 + break: Laura
 
 #### March 31: SHS paper rough draft due (seminar can finalize this date)
@@ -208,6 +210,7 @@ some topics: sensation novel, gender and sexuality
 + Mary Elizabeth Braddon, *Lady Audley's Secret* (1862), finish
 + Ted Underwood, “Theorizing Research Practices We Forgot to Theorize
 Twenty Years Ago”*
++ Kramnick, from *Paper Minds* or Auyoung from *When Fiction Feels Real*
 + Ted Underwood, "Intro: Historical Contrast and the Prestige of Literary Culture" and "Chapter 6: Digital Humanities and the Future of Literary History" in *Why Literary Periods Mattered : Historical Contrast and the Prestige of English Studies*
 + tba
 
