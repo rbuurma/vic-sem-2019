@@ -175,7 +175,7 @@ Know*
 #### Week 10, March 29:
 some topics: marriage plots, sensation, empire, global print circulation
 
-+ Bankim Chandra Chatterjee, *Rajmohan's Wife* (1864) - 1935 edition pdf in Dropbox (first volume publication)
++ Bankim Chandra Chatterjee / Bankimchandra Chattopadhyay, *Rajmohan's Wife* (1864) - 1935 edition pdf in Dropbox (first volume publication)
 + Meenakshi Mukherjee, Introduction to the [Penguin edition of RW](https://books.google.com/books?id=7U6y_6ArxLUC&lpg=PR1&pg=PR7#v=onepage&q&f=false)
 + Sukanya Banerjee, “Troubling Conjugal Loyalties: The First Indian Novel in English and the Transimperial Framework of Sensation”
 + Supriya Chaudhuri, "Beginnings: Rajmohan’s Wife and the Novel in India," Chapter 1 of " *A History of the Indian Novel in English"
@@ -189,9 +189,9 @@ novels?
 
 
 + discussion and outline: Sagnik
-+ close reading:
++ close reading: Hali
 + criticism summary: Laura
-+ seminar paper: Hali, Sagnik
++ seminar paper: Sagnik
 + break: Laura
 
 #### March 31: SHS paper rough draft due (seminar can finalize this date)
@@ -217,7 +217,7 @@ Twenty Years Ago”*
 + discussion and outline:
 + close reading: Keton
 + criticism summary: Hali
-+ seminar paper: Sagnik
++ seminar paper: Sagnik, Hali
 + break: Hali
 
 
