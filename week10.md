@@ -9,6 +9,7 @@
   + Banerjee discusses the lateral sense of the Victorian in the context of Indian literature. Do we have anything to say about British literature through this lens? 
 + What do we make of the "language of excess" as compensation for a need for loyalty?
 + Sensation novels as morality stories
+  + Drawing on Joshi, I am struck by the argument that "the radical themes in Reynolds's novels putatively resonated further with the movement for internal social reform that had been sweeping India" (82). 
 
 ## Other criticism readings
 
@@ -28,6 +29,8 @@
 + Joshi
   + Laura?
   + At the time of writing this, I'm still going through the reading.
+  + Do we agree with the definition of melodrama on 85? RW seems pretty melodramatic, but I wouldn't say that Matangini is free from internal conflict.
+    + Does melodrama in RW give shape to the "enemy"?
 
 ## Realism
 
