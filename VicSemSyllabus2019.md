@@ -205,14 +205,16 @@ novels?
 
 
 #### April 12:  search and research
-some topics: sensation novel, gender and sexuality
+some topics: sensation novel, gender and sexuality, search and research
 
 + Mary Elizabeth Braddon, *Lady Audley's Secret* (1862), finish
-+ Ted Underwood, “Theorizing Research Practices We Forgot to Theorize
-Twenty Years Ago”*
-+ Kramnick, from *Paper Minds* or Auyoung from *When Fiction Feels Real*
++ Margaret Oliphant, "Sensation Novels"
++ Pamela Gilbert, "M.E. Braddon: Sensation Realism" from *Disease, Desire, and the Body in Women's Popular Novels"
++ Saverio Tomaiuoli, "Sensation fiction, empire and the Indian mutiny" in *The Cambridge Companion to Sensation Fiction"
++ Ted Underwood, "Theorizing Practices We Forgot to Theorize Twenty Years Ago"
 + Ted Underwood, "Intro: Historical Contrast and the Prestige of Literary Culture" and "Chapter 6: Digital Humanities and the Future of Literary History" in *Why Literary Periods Mattered : Historical Contrast and the Prestige of English Studies*
-+ tba
++ optional: Anne-Marie Beller, "Sensation fiction in the 1850s" in *The Cambridge Companion to Sensation Fiction"
+
 
 + discussion and outline:
 + close reading: Keton
@@ -226,7 +228,10 @@ Twenty Years Ago”*
 + Leah Price, from *The Anthology and the Rise of the Novel* *
 + David Kurnick, “An Erotics of Detachment"
 + selections from GE notebooks
-
++ Ted Underwood, “Theorizing Research Practices We Forgot to Theorize
+Twenty Years Ago”*
++ Kramnick, from *Paper Minds* or Auyoung from *When Fiction Feels Real*
++
 + discussion and outline: Hali
 + close reading: Hali, Keton
 + criticism summary: Laura
