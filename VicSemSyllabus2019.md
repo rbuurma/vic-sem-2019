@@ -224,14 +224,10 @@ some topics: sensation novel, gender and sexuality, search and research
 
 
 #### April 19: reference and everyday life
-+ George Eliot, *Middlemarch* (1871-2), first half
++ George Eliot, *Middlemarch* (1871-2), books 1, 2, 3
 + Leah Price, from *The Anthology and the Rise of the Novel* *
 + David Kurnick, “An Erotics of Detachment"
-+ selections from GE notebooks
-+ Ted Underwood, “Theorizing Research Practices We Forgot to Theorize
-Twenty Years Ago”*
-+ Kramnick, from *Paper Minds* or Auyoung from *When Fiction Feels Real*
-+
+
 + discussion and outline: Hali
 + close reading: Hali, Keton
 + criticism summary: Laura
@@ -239,17 +235,17 @@ Twenty Years Ago”*
 + break: Keton and Laura
 
 
-#### April ???: SHS papers due
+#### April 29: SHS papers due
 
 #### April 26: social totalities and literary values
-+ George Eliot, *Middlemarch*, second half
-+ George Eliot, “The Natural History of German Life”
-+ Pre-printed forms (examples of Lett’s Extract Book, Todd’s Index
-Rerum, etc)
++ George Eliot, *Middlemarch*, books 4,5,6
 + Sarah Allison, "George Eliot's Discerning Syntax"
 + Introduction to “Denotative, Technically, Literally” special issue,
 ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
-2014)
++ selections from GE notebooks
++ Ted Underwood, “Theorizing Research Practices We Forgot to Theorize
+Twenty Years Ago”*
++ Kramnick, from *Paper Minds* or Auyoung from *When Fiction Feels Real*
 
 + discussion and outline: Keton
 + close reading: Sagnik
