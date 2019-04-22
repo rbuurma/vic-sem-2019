@@ -225,8 +225,9 @@ some topics: sensation novel, gender and sexuality, search and research
 
 #### April 19: reference and everyday life
 + George Eliot, *Middlemarch* (1871-2), books 1, 2, 3
-+ Leah Price, from *The Anthology and the Rise of the Novel* *
++ Leah Price, from *The Anthology and the Rise of the Novel*
 + David Kurnick, “An Erotics of Detachment"
++ Sarahh Allison, from *Reductive Reading*
 
 + discussion and outline: Hali
 + close reading: Hali, Keton
@@ -243,9 +244,6 @@ some topics: sensation novel, gender and sexuality, search and research
 + Introduction to “Denotative, Technically, Literally” special issue,
 ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
 + selections from GE notebooks
-+ Ted Underwood, “Theorizing Research Practices We Forgot to Theorize
-Twenty Years Ago”*
-+ Kramnick, from *Paper Minds* or Auyoung from *When Fiction Feels Real*
 
 + discussion and outline: Keton
 + close reading: Sagnik
@@ -259,7 +257,6 @@ some topics:
 + *Middlemarch*, finish
 + examine [Quarry for
 Middlemarch](http://pds.lib.harvard.edu/pds/view/35524557 )
-+ discussion and outline:
 
 ***
 
