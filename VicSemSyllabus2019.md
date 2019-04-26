@@ -227,7 +227,6 @@ some topics: sensation novel, gender and sexuality, search and research
 + George Eliot, *Middlemarch* (1871-2), books 1, 2, 3
 + Leah Price, from *The Anthology and the Rise of the Novel*
 + David Kurnick, “An Erotics of Detachment"
-+ Sarahh Allison, from *Reductive Reading*
 
 + discussion and outline: Hali
 + close reading: Hali, Keton
@@ -241,9 +240,9 @@ some topics: sensation novel, gender and sexuality, search and research
 #### April 26: social totalities and literary values
 + George Eliot, *Middlemarch*, books 4,5,6
 + Sarah Allison, "George Eliot's Discerning Syntax"
-+ Introduction to “Denotative, Technically, Literally” special issue,
-ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
-+ selections from GE notebooks
++ Sarah Allison, from *Reductive Reading*
++ examine [Quarry for
+Middlemarch](http://pds.lib.harvard.edu/pds/view/35524557 )
 
 + discussion and outline: Keton
 + close reading: Sagnik
@@ -255,8 +254,7 @@ ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
 some topics:
 
 + *Middlemarch*, finish
-+ examine [Quarry for
-Middlemarch](http://pds.lib.harvard.edu/pds/view/35524557 )
+
 
 ***
 
